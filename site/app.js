@@ -52,11 +52,11 @@ app.get('/info', function(req, res) {
   if (CURRENTMODE == MODE.TEST) {
     patientdata = {
       "personal": {
-        "name": "Ralph DAlmeida",
+        "name": "Bilong Joseph",
         "age": 38,
         "gender": "male",
-        "street": "34 Main Street",
-        "city": "Toronto",
+        "street": "Mendong camp Sic",
+        "city": "Yaoundé",
         "zipcode": "M5H 1T1"
       },
       "medications": ["Metoprolol", "ACE inhibitors", "Vitamin D"],
